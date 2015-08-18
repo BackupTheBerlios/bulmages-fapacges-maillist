@@ -1,0 +1,26 @@
+From aribot a gmail.com  Wed Nov  9 16:32:47 2011
+From: aribot a gmail.com (Alex Ribot)
+Date: Wed, 9 Nov 2011 16:32:47 +0100
+Subject: [Bulmages-fapacges] Problema amb quotes de socis
+Message-ID: <CACw=49HFskLcjFd2GroxDfyNuJ0STzMZOWmg_+pPKLvJCO593A@mail.gmail.com>
+
+Hola,
+
+ens estem plantejant d'incorporar l'eina de gestió a la nostra AMPA (CEIP
+la Farigola del Clot).
+De moment estem fent proves per saber si més o menys compleix les
+espectatives, i realment és molt potent i interessant.
+Ens hem trobat però amb un problema:
+a l'hora de crear les quotes de socis, només en deixa crear una i canviar
+el valor segons els germans.
+En la nostra AMPA tenim diferenciades dues quotes segons el curs que fa
+l'alumne i a més les cobrem en dos mesos. Com podem aplicar aquesta forma
+de cobrament en l'aplicació?
+
+Gràcies.
+
+Alex Ribot.
+-------------- part següent --------------
+Un document HTML ha estat eliminat...
+URL: <https://lists.berlios.de/pipermail/bulmages-fapacges/attachments/20111109/72f5c38b/attachment.html>
+

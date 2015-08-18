@@ -1,0 +1,79 @@
+From walter.garcia a upf.edu  Thu Sep  8 16:01:57 2011
+From: walter.garcia a upf.edu (Walter Garcia-Fontes)
+Date: Thu, 8 Sep 2011 16:01:57 +0200
+Subject: [Bulmages-fapacges] =?iso-8859-1?q?Nova_versi=F3_FaPaCges?=
+Message-ID: <20110908140157.GA14279@upf.edu>
+
+Ha sortit una nova versió de FapacGes, incorporant la major part de
+canvis i corregint els errors identificats en les sessions amb AMPA
+del juny i juliol. 
+
+La llista completa de canvis i errors corregits els podeu trobar a:
+
+http://www.fapac.cat/canvis-fapacges
+
+i per instal·lar el programa:
+
+http://www.fapac.cat/FaPaCgès-programa-de-gestio-d-AMPA
+
+Walter
+
+-- 
+Walter Garcia-Fontes
+mailto: walter.garcia a upf.edu - http://puna.upf.edu
+Departament d'Economia i Empresa - http://www.econ.upf.edu
+Universitat Pompeu Fabra
+Ramon Trias Fargas 25-27, 08005 Barcelona, Spain
+Tel. +34 93 542 2722 - Fax. +34 93 542 1746
+
+
+
+From ampalavalira a hotmail.com  Mon Sep 12 14:39:00 2011
+From: ampalavalira a hotmail.com (AMPA LA VALIRA LA VALIRA)
+Date: Mon, 12 Sep 2011 14:39:00 +0200
+Subject: [Bulmages-fapacges] Dubte
+Message-ID: <SNT144-W441399C1AAADB908696A14DE020@phx.gbl>
+
+
+Bona tarda,
+Estem utilitzan per primer cop el programa de gestió d'Ampa, i anem una mica peixos.
+No sabem localitzar l'informe on ens mostri els saldos de les partides comptables, balanços, etc...
+Salutacions,
+Mònica. 		 	   		  
+-------------- part següent --------------
+Un document HTML ha estat eliminat...
+URL: <https://lists.berlios.de/pipermail/bulmages-fapacges/attachments/20110912/7d9ac3f8/attachment.html>
+
+From walter.garcia a upf.edu  Mon Sep 12 14:51:27 2011
+From: walter.garcia a upf.edu (Walter Garcia-Fontes)
+Date: Mon, 12 Sep 2011 14:51:27 +0200
+Subject: [Bulmages-fapacges] Dubte
+In-Reply-To: <SNT144-W441399C1AAADB908696A14DE020@phx.gbl>
+References: <SNT144-W441399C1AAADB908696A14DE020@phx.gbl>
+Message-ID: <20110912125126.GC12556@upf.edu>
+
+* AMPA LA VALIRA LA VALIRA [12/09/11 14:44]:
+> Bona tarda,
+> Estem utilitzan per primer cop el programa de gestió d'Ampa, i anem una mica
+> peixos.
+> No sabem localitzar l'informe on ens mostri els saldos de les partides
+> comptables, balanços, etc...
+> Salutacions,
+> Mònica.
+
+Hola Mònica,
+
+si esteu usant l'última versió per a Windows penjada a la web (versió
+9e75506), té un problema per a mostrar els informes. En principi
+hauria de sortir sota el menú economia, a un submenú informes, però en
+aquesta versió això no està funcionant. 
+
+Estem mirant d'arreglar aquest problema i en quant el solucionem
+publicarem un nova versió, 
+
+-- 
+Walter Garcia-Fontes
+
+
+
+
